@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Analyst, DSA and App Development**
 - 🔭 I’m working on an AI Assistant project: **[Astra AI](https://github.com/nitinjha607/Astra-AI)**
-- 💬 Ask me about: **SQL, Python, MySQL, PostgreSQL, Firebase, Full Stack Projects**
+- 💬 Ask me about: **DSA, SQL, Python, MySQL, PostgreSQL, Firebase, Full Stack Projects**
 - 📫 Reach me at: **nitinjha607@gmail.com**
 - 🧑‍💻 All of my work is available at [https://github.com/nitinjha607](https://github.com/nitinjha607)
 
