@@ -55,7 +55,6 @@
 > Your personal AI assistant built with Python — speaks, searches, tells jokes, fetches weather, and more!  
 > 🧠 Technologies: SpeechRecognition, pyttsx3, Web APIs, Automation
 
-<img src="https://github.com/nitinjha607/Astra-AI/blob/main/screenshots/voice-commands.png" width="100%" alt="Astra AI Screenshot" />
 
 ---
 
