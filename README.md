@@ -50,7 +50,7 @@
 
 ### 🚀 Featured Project
 
-#### 🔹 [Astra AI - Virtual Assistant using Python](https://github.com/nitinjha607/Astra-AI)
+#### 🔹 [Astra AI - Virtual Assistant using Flutter](https://github.com/nitinjha607/Astra-AI)
 
 > Your personal AI assistant built with Python — speaks, searches, tells jokes, fetches weather, and more!  
 > 🧠 Technologies: SpeechRecognition, pyttsx3, Web APIs, Automation
@@ -62,10 +62,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/nitinjha607" target="blank">
+<a href="https://www.linkedin.com/in/nitin-jha-320637253/" target="blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:nitinjha607@gmail.com" target="blank">
+<a href="mailto:nitinjha075@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
