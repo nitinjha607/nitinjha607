@@ -58,6 +58,8 @@
 > Your personal AI assistant built with Python — speaks, searches, tells jokes, fetches weather, and more!  
 > 🧠 Technologies: SpeechRecognition, pyttsx3, Web APIs, Automation
 
+#### [📱 Instagram Clone - MERN + Firebase Project](https://github.com/nitinjha607/instagram_clone)
+> A fully functional Instagram web app clone built with the MERN stack and Firebase! Users can sign up, log in, upload images, like, comment, and more — just like real Instagram.
 
 ---
 
