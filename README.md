@@ -88,4 +88,4 @@
 
 ---
 
-> ✨ Let's build, learn, and grow together! Thanks for visiting! 🙌
+> ✨ Let's build, learn, and grow together! Thanks for visiting!
