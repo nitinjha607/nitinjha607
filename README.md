@@ -14,6 +14,12 @@
 - 🧑‍💻 All of my work is available at [https://github.com/nitinjha607](https://github.com/nitinjha607)
 
 ---
+### Achievments
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge"/>
+> 🦈 The Pull Shark is awarded to those who consistently contribute with pull requests. Keep swimming!
+
+
+---
 
 ### 🛠️ Languages & Tools
 
