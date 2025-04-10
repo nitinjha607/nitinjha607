@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Data Science, Blockchain, and Full-Stack Development**
+- 🌱 I’m currently learning **Data Analyst, DSA and App Development**
 - 🔭 I’m working on an AI Assistant project: **[Astra AI](https://github.com/nitinjha607/Astra-AI)**
 - 💬 Ask me about: **SQL, Python, MySQL, PostgreSQL, Firebase, Full Stack Projects**
 - 📫 Reach me at: **nitinjha607@gmail.com**
