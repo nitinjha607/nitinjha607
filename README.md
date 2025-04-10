@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Developer and Data Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Python+%7C+SQL+%7C+AI+Enthusiast;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;App+Developer;Python+%7C+SQL+%7C+AI+Enthusiast;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Data Analyst, DSA and App Development**
+- 🌱 I’m currently doing **Data Analyst, DSA and App Development**
 - 🔭 I’m working on an AI Assistant project: **[Astra AI](https://github.com/nitinjha607/Astra-AI)**
 - 💬 Ask me about: **DSA, SQL, Python, MySQL, PostgreSQL, Firebase, Full Stack Projects**
 - 📫 Reach me at: **nitinjha607@gmail.com**
