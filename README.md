@@ -84,7 +84,7 @@
 🌇 Evening       Open Source Contributions (2 hours)
 🌃 Night         Learning New Tech (1 hour)
 ```
-###🤝 Let's Connect
+### 🤝 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nitin-jha-320637253/" target="_blank">
@@ -100,5 +100,7 @@
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 </p>
-> ✨ Let's build, learn, and grow together! Thanks for visiting!
+
+
+✨ Let's build, learn, and grow together! Thanks for visiting!
 </div><p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" alt="Thank You"/> </p>
