@@ -1,91 +1,88 @@
-<h1 align="center">Hi 👋, I'm Nitin Jha</h1>
-<h3 align="center">A passionate Developer and Data Enthusiast from India 🇮🇳</h3>
+<h1 align="center">🚀 Nitin Jha</h1>
+<h3 align="center">Full Stack Developer | AI & Data Specialist | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;App+Developer;Python+%7C+SQL+%7C+AI+Enthusiast;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Building+the+future+with+code;10K%2B+Lines+of+Python;5+Years+of+Coding+Experience;Open+Source+Enthusiast;Let's+connect!" alt="Typing SVG" />
 </p>
 
----
-
-- 🌱 I’m currently doing **Data Analyst, DSA and App Development**
-- 🔭 I’m working on an AI Assistant project: **[Astra AI](https://github.com/nitinjha607/Astra-AI)**
-- 💬 Ask me about: **DSA, SQL, Python, MySQL, PostgreSQL, Firebase, Full Stack Projects**
-- 📫 Reach me at: **nitinjha607@gmail.com**
-- 🧑‍💻 All of my work is available at [https://github.com/nitinjha607](https://github.com/nitinjha607)
-
----
-### Achievments
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge"/>
-> 🦈 The Pull Shark is awarded to those who consistently contribute with pull requests. Keep swimming!
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9tZ3Z3dW1tZ2R4M3RzY2d5eWJxZ3V3bGx4dGJ0cXhxZ2R6eGZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitinjha607&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinjha607&show_icons=true&theme=radical" alt="Nitin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinjha607&layout=compact&theme=radical" alt="Top languages" />
-</p>
+#### 1. [Astra AI - Next-Gen Virtual Assistant](https://github.com/nitinjha607/Astra-AI) 🤖
+> Python-powered AI assistant with natural language processing, web automation, and API integration  
+> 🛠️ Tech Stack: Python, SpeechRecognition, OpenAI API, NLP  
+> ⭐ Features: Voice commands, Weather, News, Jokes, Smart Home Control  
 
----
+[![Astra AI Demo](https://img.shields.io/badge/View-Demo-red?style=for-the-badge&logo=youtube)](https://youtube.com/demo-link)
 
-### 🔥 Streak Stats
+#### 2. [Instagram Clone - MERN Stack](https://github.com/nitinjha607/instagram_clone) 📱
+> Full-featured social media platform with real-time interactions  
+> 🛠️ Tech Stack: React, Node.js, MongoDB, Firebase  
+> ⭐ Features: Image upload, Stories, Reels, Messaging  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinjha607&theme=radical" alt="GitHub streak stats" />
-</p>
-
----
-
-### 🚀 Featured Project
-
-#### 🔹 [Astra AI - Virtual Assistant using Flutter](https://github.com/nitinjha607/Astra-AI)
-
-> Your personal AI assistant built with Python — speaks, searches, tells jokes, fetches weather, and more!  
-> 🧠 Technologies: SpeechRecognition, pyttsx3, Web APIs, Automation
-
-#### [📱 Instagram Clone - MERN + Firebase Project](https://github.com/nitinjha607/instagram_clone)
-> A fully functional Instagram web app clone built with the MERN stack and Firebase! Users can sign up, log in, upload images, like, comment, and more — just like real Instagram.
+[![Live Demo](https://img.shields.io/badge/TRY-LIVE%20DEMO-success?style=for-the-badge)](https://your-demo-link.com)
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nitin-jha-320637253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/nitinjha075/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.youtube.com/@nitintech3674" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.fiverr.com/sellers/nitinjha787/" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
-</p>
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-> ✨ Let's build, learn, and grow together! Thanks for visiting!
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitinjha607&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinjha607&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinjha607&theme=vision-friendly-dark" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🎯 Daily Coding Routine
+
+```text
+🌅 Morning       DSA Problems (2 hours)
+💻 Daytime       Project Development (4 hours)
+🌇 Evening       Open Source Contributions (2 hours)
+🌃 Night         Learning New Tech (1 hour)
+```
+###🤝 Let's Connect
+
+<div align="center"> <a href="https://www.linkedin.com/in/nitin-jha-320637253/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:nitinjha607@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://leetcode.com/u/nitinjha075/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://www.youtube.com/@nitintech3674"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=nitinjha607&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> <img src="https://visitor-badge.glitch.me/badge?page_id=nitinjha607.nitinjha607" alt="Unique Visitors"/> </div><p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" alt="Thank You"/> </p>
+
