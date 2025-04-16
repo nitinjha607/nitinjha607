@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | AI & Data Specialist | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Building+the+future+with+code;10K%2B+Lines+of+Python;5+Years+of+Coding+Experience;Open+Source+Enthusiast;Let's+connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Building+the+future+with+code;10K%2B+Lines+of+Python;Open+Source+Enthusiast;Let's+connect!" alt="Typing SVG" />
 </p>
 
 <div align="center">
