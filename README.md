@@ -20,19 +20,14 @@
 
 ### 🔥 Featured Projects
 
-#### 1. [Astra AI - Next-Gen Virtual Assistant](https://github.com/nitinjha607/Astra-AI) 🤖
-> Python-powered AI assistant with natural language processing, web automation, and API integration  
-> 🛠️ Tech Stack: Python, SpeechRecognition, OpenAI API, NLP  
-> ⭐ Features: Voice commands, Weather, News, Jokes, Smart Home Control  
 
-[![Astra AI Demo](https://img.shields.io/badge/View-Demo-red?style=for-the-badge&logo=youtube)](https://youtube.com/demo-link)
+#### 🔹 [Astra AI - Virtual Assistant using Flutter](https://github.com/nitinjha607/Astra-AI)
 
-#### 2. [Instagram Clone - MERN Stack](https://github.com/nitinjha607/instagram_clone) 📱
-> Full-featured social media platform with real-time interactions  
-> 🛠️ Tech Stack: React, Node.js, MongoDB, Firebase  
-> ⭐ Features: Image upload, Stories, Reels, Messaging  
+> Your personal AI assistant built with Python — speaks, searches, tells jokes, fetches weather, and more!  
+> 🧠 Technologies: SpeechRecognition, pyttsx3, Web APIs, Automation
 
-[![Live Demo](https://img.shields.io/badge/TRY-LIVE%20DEMO-success?style=for-the-badge)](https://your-demo-link.com)
+#### [📱 Instagram Clone - MERN + Firebase Project](https://github.com/nitinjha607/instagram_clone)
+> A fully functional Instagram web app clone built with the MERN stack and Firebase! Users can sign up, log in, upload images, like, comment, and more — just like real Instagram.
 
 ---
 
