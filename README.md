@@ -11,6 +11,14 @@
 
 ---
 
+- 🌱 I’m currently doing **Data Analyst, DSA and App Development**
+- 🔭 I’m working on an AI Assistant project: **[Astra AI](https://github.com/nitinjha607/Astra-AI)**
+- 💬 Ask me about: **DSA, SQL, Python, MySQL, PostgreSQL, Firebase, Full Stack Projects**
+- 📫 Reach me at: **nitinjha607@gmail.com**
+- 🧑‍💻 All of my work is available at [https://github.com/nitinjha607](https://github.com/nitinjha607)
+
+---
+
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nitinjha607&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
