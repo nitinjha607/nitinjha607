@@ -78,6 +78,18 @@
 ```
 ###🤝 Let's Connect
 
-<div align="center"> <a href="https://www.linkedin.com/in/nitin-jha-320637253/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:nitinjha607@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://leetcode.com/u/nitinjha075/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://www.youtube.com/@nitintech3674"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=nitinjha607&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> <img src="https://visitor-badge.glitch.me/badge?page_id=nitinjha607.nitinjha607" alt="Unique Visitors"/> </div><p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" alt="Thank You"/> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nitin-jha-320637253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/nitinjha075/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.youtube.com/@nitintech3674" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.fiverr.com/sellers/nitinjha787/" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+</p>
 
