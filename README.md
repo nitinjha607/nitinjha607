@@ -100,5 +100,5 @@
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 </p>
-
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=nitinjha607&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div><p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" alt="Thank You"/> </p>
