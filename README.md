@@ -76,14 +76,7 @@
 
 ---
 
-### 🎯 Daily Coding Routine
 
-```text
-🌅 Morning       DSA Problems (2 hours)
-💻 Daytime       Project Development (4 hours)
-🌇 Evening       Open Source Contributions (2 hours)
-🌃 Night         Learning New Tech (1 hour)
-```
 ### 🤝 Let's Connect
 
 <p align="left">
